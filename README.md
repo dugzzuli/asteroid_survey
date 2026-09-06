@@ -1,6 +1,6 @@
 # Asteroid Research since 2001
 
-一个面向学术综述（Survey/Review）的、可持续维护的小行星研究文献数据库。范围暂定为 2001–2026 年现代小行星研究：大规模数字巡天、发现与轨道、物理表征，以及数据驱动方法。
+一个面向学术综述（Survey/Review）的、可持续维护的小行星研究文献数据库。工作标题为 **Asteroid Research since 2001: Surveys, Methods, Physical Characterization, and Data-Driven Approaches**；范围暂定为 2001–2026 年现代小行星研究。
 
 本库不是按年份罗列论文，而是追踪科学问题、方法演化、可复用数据与仍未解决的局限。初期保持较宽的覆盖面；在形成 200–300 篇文献池并筛选出 landmark papers 后，再决定最终综述的聚焦方向。
 
@@ -14,6 +14,7 @@
 ## 目录
 
 - `bibliography/`：结构化文献库、BibTeX 与核心论文清单。
+- `00_foundations/`：解释现代方法时不可绕过的 2001 年以前基础工作。
 - `01_surveys/` 至 `10_datasets_and_software/`：按研究主题积累可直接转化为综述章节的笔记。
 - `statistics/`：可复现的文献与方法趋势分析。
 - `review_outline.md`：综述问题、候选叙事与逐步收敛的写作大纲。

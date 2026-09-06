@@ -28,6 +28,8 @@ The working period begins with the modern large-scale digital and inversion era.
 Images → detection → linking → orbit → photometry → physical characterisation
 ```
 
+The review follows this **observational/computational** line in parallel with a **scientific-progress** line: how those methods changed population-level knowledge of colors, taxonomy, size, albedo, rotation, and dynamics. Each chapter should connect the two rather than treating facilities as ends in themselves.
+
 ## Decision gate
 
 After 200–300 verified records and 30–50 priority-A papers, select one path:

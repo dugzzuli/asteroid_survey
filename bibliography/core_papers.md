@@ -12,3 +12,25 @@ Add entries only after verifying bibliographic metadata and the claimed contribu
 
 | Cite key | Year | Priority | Topic | Why it matters | Verification status |
 |---|---:|---|---|---|---|
+| Ivezic2001 | 2001 | A | SDSS | Multi-band digital-survey asteroid sample | DOI checked |
+| KaasalainenTorppa2001 | 2001 | A | Shape inversion | Foundational optimization framework | DOI checked |
+| KaasalainenEtAl2001 | 2001 | A | Shape/spin inversion | Complete photometric inverse problem | DOI checked |
+| BusBinzel2002a | 2002 | A | Spectroscopy | SMASS II observations | DOI checked |
+| BusBinzel2002b | 2002 | A | Taxonomy | Bus feature-based taxonomy | DOI checked |
+| KubicaEtAl2007 | 2007 | A | Linking | kd-tree intra/inter-night linking | DOI checked |
+| WarnerEtAl2009 | 2009 | A | Database | Asteroid Lightcurve Database | DOI checked |
+| DeMeoEtAl2009 | 2009 | A | Taxonomy | Bus-DeMeo near-infrared extension | DOI checked |
+| DurechEtAl2009 | 2009 | A | Inversion | Combined sparse and dense data | DOI checked |
+| DurechEtAl2010 | 2010 | A | Database | DAMIT models | DOI checked |
+| MuinonenEtAl2010 | 2010 | A | Phase function | H,G1,G2 model | DOI checked |
+| MasieroEtAl2011 | 2011 | A | Thermal physical properties | WISE/NEOWISE scale-up | DOI checked |
+| PolishookEtAl2012 | 2012 | A | Rotation | PTF survey lightcurves | DOI recheck required |
+| DenneauEtAl2013 | 2013 | A | Pipeline | Pan-STARRS MOPS | DOI/arXiv checked |
+| DeMeoCarry2013 | 2013 | A | Photometric taxonomy | Multi-filter population science | DOI checked |
+| DurechEtAl2016 | 2016 | A | Sparse photometry | Lowell inversion | DOI checked |
+| TonryEtAl2018 | 2018 | A | Survey | ATLAS | DOI checked |
+| DuevEtAl2019 | 2019 | A | ML detection | DeepStreaks | DOI/arXiv checked |
+| IvezicEtAl2019 | 2019 | A | Future survey | LSST reference design | DOI/arXiv checked |
+| MahlkeEtAl2021 | 2021 | A | Phase curves | ATLAS population-scale fitting | DOI checked |
+| MoeyensEtAl2021 | 2021 | A | Linking | THOR | DOI/arXiv checked |
+| TangaEtAl2023 | 2023 | A | Gaia DR3 | Solar-System survey products | DOI checked |
