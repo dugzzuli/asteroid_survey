@@ -47,3 +47,18 @@ Add entries only after verifying bibliographic metadata and the claimed contribu
 | DurechHanus2023 | 2023 | A | Gaia inversion | 8600 unique spin/shape solutions | DOI checked |
 | CellinoEtAl2024 | 2024 | A | Gaia inversion | Independent filtered sample of 8670 solutions | DOI checked |
 | MacLennanEtAl2026 | 2026 | A | Gaia characterization | Joint shapes, spins, and scattering properties | DOI checked |
+| Hapke2001 | 2001 | A | Space weathering | Physical basis for spectral alteration | DOI checked |
+| Chapman2004 | 2004 | A | Space weathering | Remote-sensing interpretation review | DOI checked |
+| HestrofferEtAl2002 | 2002 | A | Multi-data shape | Radar-model validation with independent data | DOI checked |
+| PravecHarris2000 | 2000 | A | Spin barrier | Pre-2001 foundation | DOI checked |
+| LowryEtAl2007 | 2007 | A | YORP | Direct spin-acceleration measurement | DOI checked |
+| Holsapple2007 | 2007 | A | Internal structure | Cohesive and gravity spin-limit regimes | DOI checked |
+| PravecEtAl2010 | 2010 | A | Asteroid pairs | Rotational-fission observational test | DOI checked |
+| Bertini2011 | 2011 | A | Main-belt comets | Early MBC review | DOI checked |
+| Jewitt2012 | 2012 | A | Active asteroids | Mass-loss mechanisms | DOI checked |
+| RozitisEtAl2014 | 2014 | A | Cohesion | 1950 DA weak-cohesion constraint | DOI checked |
+| JewittHsiehAgarwal2015 | 2015 | A | Active asteroids | Asteroids IV review | DOI checked |
+| HsiehEtAl2015 | 2015 | B | Survey morphology | Pan-STARRS1 active-object search | arXiv checked |
+| PolishookEtAl2016 | 2016 | A | Spin barrier | 2000 GD65 cohesion case | DOI checked |
+| SnodgrassEtAl2017 | 2017 | A | Main-belt ice | MBC and buried-ice review | DOI checked |
+| OkadaEtAl2020 | 2020 | A | Mission validation | Resolved Ryugu thermophysics | DOI checked |
