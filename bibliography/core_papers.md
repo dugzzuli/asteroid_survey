@@ -34,3 +34,16 @@ Add entries only after verifying bibliographic metadata and the claimed contribu
 | MahlkeEtAl2021 | 2021 | A | Phase curves | ATLAS population-scale fitting | DOI checked |
 | MoeyensEtAl2021 | 2021 | A | Linking | THOR | DOI/arXiv checked |
 | TangaEtAl2023 | 2023 | A | Gaia DR3 | Solar-System survey products | DOI checked |
+| BottkeEtAl2005 | 2005 | A | Collisional evolution | Couples main-belt collisions and depletion | DOI checked |
+| BottkeEtAl2006 | 2006 | A | Yarkovsky/YORP | Reference review of thermal dynamical effects | DOI checked |
+| VokrouhlickyEtAl2006a | 2006 | A | Family chronology | Thermal-force family dating | DOI checked |
+| VokrouhlickyEtAl2006b | 2006 | A | Eos family | Case study of thermal dynamical structure | DOI checked |
+| NesvornyEtAl2006 | 2006 | A | Young families | Datura breakup identification | DOI checked |
+| Carry2012 | 2012 | A | Density | Mass-volume and macroporosity review | DOI checked |
+| NesvornyBrozCarruba2015 | 2015 | A | Families | Reference identification and membership review | DOI checked |
+| MargotEtAl2015 | 2015 | A | Multiple systems | Binary/triple/pair formation review | DOI checked |
+| DelboEtAl2015 | 2015 | A | Thermophysics | Thermal modeling review | DOI checked |
+| GranvikEtAl2018 | 2018 | A | NEO population | Debiased source-region model | DOI checked |
+| DurechHanus2023 | 2023 | A | Gaia inversion | 8600 unique spin/shape solutions | DOI checked |
+| CellinoEtAl2024 | 2024 | A | Gaia inversion | Independent filtered sample of 8670 solutions | DOI checked |
+| MacLennanEtAl2026 | 2026 | A | Gaia characterization | Joint shapes, spins, and scattering properties | DOI checked |
