@@ -62,3 +62,13 @@ Add entries only after verifying bibliographic metadata and the claimed contribu
 | PolishookEtAl2016 | 2016 | A | Spin barrier | 2000 GD65 cohesion case | DOI checked |
 | SnodgrassEtAl2017 | 2017 | A | Main-belt ice | MBC and buried-ice review | DOI checked |
 | OkadaEtAl2020 | 2020 | A | Mission validation | Resolved Ryugu thermophysics | DOI checked |
+| VirtanenMuinonenBowell2001 | 2001 | B | Short-arc orbit | Statistical-ranging posterior for sparse astrometry | DOI checked 2026-09-08 |
+| MilaniSansaturioChesley2001 | 2001 | B | Attribution | Multi-stage association to known orbits | DOI checked 2026-09-08 |
+| MilaniEtAl2008 | 2008 | B | Initial orbit | Topocentric correction and survey-scale orbit quality control | DOI/arXiv checked 2026-09-08 |
+| WaszczakEtAl2013 | 2013 | B | Detection pipeline | PTF moving-object and extendedness search | DOI/arXiv checked 2026-09-08 |
+| FarnocchiaChesleyMicheli2015 | 2015 | B | Systematic ranging | Short-arc impact probability assessment | DOI/arXiv checked 2026-09-08 |
+| FarnocchiaEtAl2016 | 2016 | B | 2014 AA | Joint optical/infrasound impact trajectory | DOI/arXiv checked 2026-09-08 |
+| HolmanEtAl2018 | 2018 | B | Heliocentric linking | HelioLinC O(N log N) tracklet association | DOI/arXiv checked 2026-09-08 |
+| SpotoEtAl2018 | 2018 | B | Short-arc orbit | Gaia-era systematic-ranging tests | DOI/arXiv checked 2026-09-08 |
+| WangGeWillis2022 | 2022 | B | ML detection | Faint, fast NEO streak candidate pipeline | DOI/arXiv checked 2026-09-08 |
+| GolovichEtAl2025 | 2025 | B | Digital tracking | Survey-scale non-linear orbit-conditioned coaddition | DOI/arXiv checked 2026-09-08 |
