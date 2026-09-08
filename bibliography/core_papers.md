@@ -72,3 +72,8 @@ Add entries only after verifying bibliographic metadata and the claimed contribu
 | SpotoEtAl2018 | 2018 | B | Short-arc orbit | Gaia-era systematic-ranging tests | DOI/arXiv checked 2026-09-08 |
 | WangGeWillis2022 | 2022 | B | ML detection | Faint, fast NEO streak candidate pipeline | DOI/arXiv checked 2026-09-08 |
 | GolovichEtAl2025 | 2025 | B | Digital tracking | Survey-scale non-linear orbit-conditioned coaddition | DOI/arXiv checked 2026-09-08 |
+| HanusDurech2013 | 2013 | B | Sparse inversion | Selection limits for sparse-only shape models | DOI/arXiv checked 2026-09-08 |
+| WaszczakEtAl2015 | 2015 | B | Survey lightcurves | Joint period and phase fitting with reliability assessment | DOI/arXiv checked 2026-09-08 |
+| DurechHanus2018 | 2018 | B | Gaia inversion | DR2 spin-state reconstruction and validation | DOI/arXiv checked 2026-09-08 |
+| AliLagoaEtAl2018 | 2018 | B | Multi-data inversion | Lowell optical plus WISE thermal models | DOI checked 2026-09-08 |
+| TangEtAl2025 | 2025 | B | ML shape inversion | Learned lightcurve-to-shape mapping | DOI/arXiv checked 2026-09-08 |
