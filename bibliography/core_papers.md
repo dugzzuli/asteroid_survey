@@ -77,3 +77,7 @@ Add entries only after verifying bibliographic metadata and the claimed contribu
 | DurechHanus2018 | 2018 | B | Gaia inversion | DR2 spin-state reconstruction and validation | DOI/arXiv checked 2026-09-08 |
 | AliLagoaEtAl2018 | 2018 | B | Multi-data inversion | Lowell optical plus WISE thermal models | DOI checked 2026-09-08 |
 | TangEtAl2025 | 2025 | B | ML shape inversion | Learned lightcurve-to-shape mapping | DOI/arXiv checked 2026-09-08 |
+| MahlkeCarryMattei2022 | 2022 | B | Probabilistic taxonomy | Spectra plus albedo with class probabilities | DOI/arXiv checked 2026-09-08 |
+| GaiaGalluccioEtAl2023 | 2023 | B | Gaia spectra | DR3 reflectance-spectra data release | DOI/arXiv checked 2026-09-08 |
+| DyarEtAl2023 | 2023 | B | Composition ML | Meteorite-supervised asteroid classification | DOI checked 2026-09-08 |
+| TinautRuanoEtAl2026 | 2026 | B | Gaia taxonomy | Quality-selected 13-class Gaia framework | DOI/arXiv checked 2026-09-08 |

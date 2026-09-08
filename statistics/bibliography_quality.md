@@ -1,7 +1,7 @@
 # Bibliography quality report
 
-- Records: 65
-- Priorities: A=49, B=16
+- Records: 69
+- Priorities: A=49, B=20
 - Duplicate IDs: none
 - Missing DOI and arXiv: none
 - Records missing required analytical fields: none
@@ -19,18 +19,19 @@
 | Detection | 5 |
 | Internal structure | 5 |
 | Active asteroids and main-belt comets | 5 |
+| Taxonomy | 4 |
+| Machine learning | 4 |
 | Dynamics and evolution | 4 |
 | Asteroid families | 4 |
 | Spectroscopy and taxonomy | 3 |
 | Linking | 3 |
-| Machine learning | 3 |
 | Thermal properties | 3 |
 | Rotation and shape | 3 |
 | Impact monitoring | 3 |
+| Gaia | 3 |
 | Databases | 2 |
 | Photometry and phase functions | 2 |
 | Orbits | 2 |
-| Taxonomy | 2 |
 | Photometry | 2 |
 | Binary and multiple systems | 2 |
 | Space weathering and surface evolution | 2 |
@@ -48,5 +49,7 @@
 | Active asteroids | 1 |
 | Digital tracking | 1 |
 | Phase function | 1 |
-| Gaia | 1 |
 | Thermophysics | 1 |
+| Albedo | 1 |
+| Spectroscopy | 1 |
+| Composition | 1 |
