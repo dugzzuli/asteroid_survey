@@ -9,6 +9,21 @@ calibrated photometry → reduced brightness and phase model → period search
 
 Each arrow has a different failure mode. A plausible period does not itself validate a pole or a shape model.
 
+## Four levels of inference
+
+| Level | Typical result | What it does not establish |
+|---|---|---|
+| Period recovery | Rotation period \(P\) | Pole direction or a unique shape |
+| Spin-state inference | \(P\) plus pole coordinates | Surface concavities or a detailed physical shape |
+| Convex inversion | \(P\), pole, convex hull and scattering model | A unique non-convex body |
+| Population-scale inversion | Screened distributions of spin, shape proxy and phase parameters | An unbiased population without a selection-function model |
+
+## Dense versus sparse photometry
+
+Dense lightcurves sample a rotation continuously for hours and are efficient for period and amplitude recovery. Sparse survey photometry sacrifices within-night coverage but can span many viewing and phase geometries. It can therefore constrain selected spin/shape solutions, provided that the time baseline, signal-to-noise ratio and geometry are adequate.
+
+The two data modes must not be treated as interchangeable. Sparse inversion is an inference and selection problem, not merely a lower-cadence period search.
+
 ## Representative methods
 
 | Family | Input | Output | Strength | Limitation | References |
@@ -23,3 +38,7 @@ Each arrow has a different failure mode. A plausible period does not itself vali
 ## Minimum reporting standard
 
 For every period or inversion result, record the observing time span, number of points, phase-angle range, period-search range, alias treatment, photometric error model, and independent validation source. A final review should not compare model counts without these fields.
+
+## Selection effect to carry into the final review
+
+Low-amplitude, nearly spherical objects are harder to recover from sparse photometry than elongated, high-amplitude objects. Consequently, an observed inversion-model distribution is not automatically a shape distribution for the discovered population. The review should distinguish detection selection from inversion selection and require injection--recovery or an equivalent validation before population-level interpretation.
